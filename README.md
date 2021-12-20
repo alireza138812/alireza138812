@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-##- 🔭 I’m currently working on C# and Python
+##- 🔭 I’m currently working on Python and FrontEnd
 
-##- 🌱 I’m currently learning HTML , CSS , JavaScript
+##- 🌱 I’m currently learning HTML , CSS , JavaScript (FrontEnd)
 
 ##- ⚡ Fun fact: I am a child ! my birthday is 2009
 
