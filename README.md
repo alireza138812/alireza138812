@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-##- 🔭 I’m currently working on Python and FrontEnd
+##- 🔭 I’m currently working on Python and cpp
 
 ##- 🌱 I’m currently learning HTML , CSS , JavaScript (FrontEnd)
 
-##- ⚡ Fun fact: I am a child ! my birthday is 2009
+##- ⚡ Fun fact: Dont look your back!
 
 
 <img src="https://gpvc.arturio.dev/alireza138812" alt="profile views">
